@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use(cors({
-  origin: "https://chatty-peach-tau.vercel.app/",
+  origin: "https://chatty-gugq.onrender.com",
   credentials: true,
 }));
 
